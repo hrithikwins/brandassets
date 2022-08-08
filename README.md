@@ -1,14 +1,14 @@
 # Brand Guidelines V1.0
 
-## Color & Typography
-
-## Metavolf Logo
+## Metavolf
 
 ![metavolf](readme-images/image1.png)
 
 ### The Ideology
 
 ![core pallete](readme-images/image2.png)
+
+## Color & Typography
 
 ### Core Pallete
 
