@@ -17,7 +17,6 @@
 ### Color Combinations
 
 ![core pallete](readme-images/image4.png)
-![core pallete](readme-images/image5.png)
 
 ### Typography
 
